@@ -64,7 +64,5 @@ Le code source complet est disponible ici :
 git clone <repository-url>
 cd <project-folder>
 
-# Ouvrir le projet dans un navigateur ou servir en local
-# Exemple avec un serveur léger
-npx serve .
+
 ```
